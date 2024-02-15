@@ -1,0 +1,26 @@
+body{
+  background-color: whitesmoke;
+}
+
+i{
+  color:dodgerblue;
+}
+a{
+  text-decoration: underline;
+}
+p{
+  font-size: 12px;
+}
+.box-part{
+  display: flex;
+  flex-direction: column;
+justify-content: space-between;
+  padding: 30px 0px;
+  background-color: white;
+  height:260px;
+  width: 270px;
+  margin: 30px 0px;
+}
+.box{
+  padding: 60px 0px;
+}
